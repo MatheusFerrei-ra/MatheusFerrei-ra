@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Tecnologias que estou aprendendo:
-- Lógica da programação
+- Linguagem C
 
 ---
 
